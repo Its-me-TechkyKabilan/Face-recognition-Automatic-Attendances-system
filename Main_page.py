@@ -6,7 +6,7 @@ st.set_page_config(page_title="Face recognition attendance system", page_icon="ð
 st.markdown(
     f"""
     <div style="display: flex; align-items: center; margin-left: -120px; margin-top: -60px;"> <!-- Move content up -->
-        <h1 style="margin: 0; padding-left: 10px; white-space: nowrap;">FACE RECOGNITION BASED ATTENDANCE SYSTEM</h1>
+        <h1 style="margin: 0; padding-left: 10px; white-space: nowrap;">FACE RECOGNITION AUTOMATIC ATTENDANCE SYSTEM</h1>
     </div>
     """,
     unsafe_allow_html=True
@@ -47,7 +47,7 @@ st.markdown(
 st.markdown(
     f"""
     <div style="display: flex; align-items: center; margin-left: 280px; margin-top: 10px;">
-        <h3 style="margin: 0; white-space: nowrap; font-size: 30px;">Pragin.T (D.CE) </h3>
+        <h3 style="margin: 0; white-space: nowrap; font-size: 30px;">Kabilan S (D.CE) </h3>
     </div>
     """,
     unsafe_allow_html=True
@@ -57,7 +57,7 @@ st.markdown(
     f"""
     <div style="display: flex; align-items: center; margin-left: 160px; margin-top: 80px;">
         <h3 style="margin: 0; white-space: nowrap; font-size: 24px;">Contact :</h3>
-        <h3 style="margin: 0; white-space: nowrap; font-size: 24px;">pragin.t.developer@gmail.com</h3>
+        <h3 style="margin: 0; white-space: nowrap; font-size: 24px;">kabilan.senthilkumarc@gmail.com</h3>
     </div>
     """,
     unsafe_allow_html=True
