@@ -58,9 +58,9 @@ data_faces_from_camera/: Folder with captured user face images.
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it, including for commercial purposes.
 
 👨‍💻 Author
-T. Pragin
+Kabilan S
 Project – Smart Attendance System
-Email: pragin.t.developer@gmail.com
+Email: kabilan.senthilkumarc@gmail.com
 
 ## 🗂️ Project Structure
 
